@@ -10,7 +10,7 @@ import Agenda from './components/Agenda';
 import PerformanceRatingApp from './components/PerformanceRatingApp';
 import Photos from './components/Photos';
 import Team from './components/Team';
-import FAQ from './components/faq';
+import FAQ from './components/Faq';
 import Footer from './components/Footer';
 import './App.css';
 import Login from './pages/login';
