@@ -92,7 +92,7 @@ const Team = () => {
                                         className="w-full h-full object-cover"
                                     />
                                 </div>
-                                {/* <div className="absolute -bottom-3 left-1/2 transform -translate-x-1/2 w-40 h-1.5 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full opacity-75"></div> */}
+                                 <div className="absolute -bottom-3 left-1/2 transform -translate-x-1/2 w-40 h-1.5 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full opacity-75"></div>
                             </div>
 
                             <div className="text-center">
